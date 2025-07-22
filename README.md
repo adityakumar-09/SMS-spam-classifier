@@ -105,5 +105,3 @@ Developed as a **Data Mining for Knowledge Discovery Project (Semester V)** by:
 
 ---
 
-## 📁 Project Structure
-
